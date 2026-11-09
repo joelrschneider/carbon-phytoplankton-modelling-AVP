@@ -8,3 +8,4 @@ Calc_vs_nocalc.ipynb compares the generated predictions for the biomass-calcific
 carbon_ratios.ipynb was used to determine the PON/POC and POP/POC ratios.
 POC_SA_relation.ipynb was used to find a relation between POC and phytoplankton surface area.
 k_f_calculation.ipynb is an attempt to calculate the k_f.
+carbon_calcification_scipy_evo.ipynb was used for automated calibration of parameters.
